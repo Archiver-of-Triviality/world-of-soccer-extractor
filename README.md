@@ -1,2 +1,2 @@
-# world-of-soccer-extractor
-Extractor for World of Soccer Telefoot.
+# World of Soccer Telefoot Extractor
+Extracts the .dat file.
